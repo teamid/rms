@@ -1,6 +1,6 @@
-# Instruction Manual
+# Manual: Princeton Oar
 
-## Contents
+## Packages and Contents
 1. Two cans of paint in Princeton Orange (Pantone, yes) and pure black.
 2. A wooden oar/paddle.
   * Apparently there aren't too many people making these around the world, so I was forced to sketch it myself and cut it on a bandsaw/scrollsaw. I did my best.
@@ -10,17 +10,15 @@ This should be all you need:
 ![Oars](https://goprincetontigers.com/images/2016/8/18/Oars.jpg)
 
 ## Requirements
-* Quality be *better than or equal to* the shield we made together.
+* Quality be **better** than **or equal to** the shield we made together.
 * Stickers are allowed, but I didn't buy you paint for nothing.
-
 
 ## Restrictions
 * You **MUST** use the original piece of wood. 
-* You may:
+* You may however:
   * Sand it
   * Paint it
   * Smooth edges
-  
 * You may not:
   * Cut it
   * Use a router on it
